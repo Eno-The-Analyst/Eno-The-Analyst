@@ -59,7 +59,7 @@ The project includes:
 ## Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/enoudobi/)
-- Email: [akpaneno06@example.com]
+- Email: [akpaneno06@gmail.com]
 
 ---
 
