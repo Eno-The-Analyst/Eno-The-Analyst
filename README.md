@@ -35,7 +35,7 @@ The project includes:
 
 **BI Tools:** Power BI, Excel  
 **Database:** SQLite, SQL Server  
-**Languages:** SQL, Python (basic automation)  
+**Languages:** SQL, T-SQL, Python (basic automation)  
 **Others:** ODBC, Data Modeling, DAX, EDA, Documentation
 
 ---
