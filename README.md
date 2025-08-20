@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Eno – Business Intelligence Analyst | Data Storyteller
 
-Welcome to my corner of GitHub! I'm a data-driven problem solver with a background in petroleum engineering and about 6 years of experience in data document management at GeoLogic Systems. I've worked closely with data developers, automated workflows using Python, and led initiatives that improved reporting, metadata accuracy, and system transitions.
+Welcome to my corner of GitHub! I'm a resourceful, data-driven problem solver with a background in petroleum engineering and about 6 years of experience in data document analysis and management at GeoLogic Systems. I've worked closely with data developers, automated workflows using Python, and led initiatives that improved reporting, metadata accuracy, and system transitions.
 
 Today, I'm focused on transforming raw data into insights that help businesses make smarter, faster decisions as well as designing data architectures.
 
